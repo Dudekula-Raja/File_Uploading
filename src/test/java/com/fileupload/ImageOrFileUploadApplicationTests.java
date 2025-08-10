@@ -1,4 +1,4 @@
-package com.thiruacademy;
+package com.fileupload;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
