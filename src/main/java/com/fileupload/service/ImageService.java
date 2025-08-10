@@ -1,4 +1,4 @@
-package com.thiruacademy.service;
+package com.fileupload.service;
 
 import java.io.IOException;
 
@@ -6,8 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.thiruacademy.entity.Image;
-import com.thiruacademy.repository.ImageRepository;
+import com.fileupload.entity.Image;
+import com.fileupload.repository.ImageRepository;
 
 @Service
 public class ImageService {
